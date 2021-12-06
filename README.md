@@ -1,12 +1,11 @@
 # Study of Science 
 
 
-This is a repository of some of the projects I am currently working on in the area of **[scientometrics](https://en.wikipedia.org/wiki/Scientometrics)** *[the study of science, technology, and innovation from a quantitative perspective](https://arxiv.org/abs/1208.4566)* 
-
+This is a repository of some of the projects I am currently working on in the area of [**Scientometrics**](https://en.wikipedia.org/wiki/Scientometrics), *the quantitative study of science, technology, and innovation* // [**Metascience**](https://en.wikipedia.org/wiki/Metascience) *,the use of scientific methodology to study science itself*.
 
 ### Links to some resources
 
-1. [Open Scientometric Datasets](https://github.com/almugabo/open_scientometrics/wiki/Open-datasets)
+1. [A wikipage on Open Scientometric Datasets](https://github.com/almugabo/open_scientometrics/wiki/Open-datasets)
 
 2.
 
