@@ -1,11 +1,5 @@
-# open_scientometrics
+# Study of Science 
 an overview of open scientometric resources 
 
-This repository of open scientometric resources. 
-Including their description and possibly codes/scripts to process the open datasets
-
-Motivation: 
-
-- chart the landscape of open scientometric resources 
-- explore their interoperability (among each others and to selected resources)
+This is a repository of some of the projects I am currently working on in the area of **[scientometrics](https://en.wikipedia.org/wiki/Scientometrics)** *[the study of science, technology, and innovation from a quantitative perspective](https://arxiv.org/abs/1208.4566)* 
 
