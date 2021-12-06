@@ -7,7 +7,7 @@ This is a repository of some of the projects I am currently working on in the ar
 
 1. [A wikipage on Open Scientometric Datasets](https://github.com/almugabo/open_scientometrics/wiki/Open-datasets)
 
-2.
+2. [Data Quality in Open Bibliometric Databases](https://github.com/almugabo/open_scientometrics/wiki/Quality-of-Bibliometric-Databases)
 
 
 
