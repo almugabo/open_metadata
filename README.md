@@ -21,7 +21,7 @@ Here the (initial) focus will be mainly on the use/potential of open metadata fo
 
 ### Links to some resources
 
-1. [An overview of Open Scientometric Datasets](https://github.com/almugabo/open_scientometrics/wiki/Open-datasets) 
+1. [An overview of Open Scientometric Datasets](https://github.com/almugabo/open_metadata/wiki/Open-Scientometric-datasets) 
 
 2. [A bibliography - partially annotated with reading notes - on Data Quality in Scientometric Databases](https://github.com/almugabo/open_scientometrics/wiki/Quality-of-Bibliometric-Databases)
 
