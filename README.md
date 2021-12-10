@@ -23,6 +23,7 @@ Here the (initial) focus will be mainly on the use/potential of open metadata fo
 
 > Waltmann, L. (2019). [Open metadata of scholarly publications: Open science monitor case study](https://op.europa.eu/s/vbBH). A report for the European Commission 
 
+> Neylon, Cameron, Belsø, Rene, Bijsterbosch, Magchiel, Cordewener, Bas, Foncel, Jérôme, Friesike, Sascha, Fyfe, Aileen, Jacobs, Neil, Katerbow, Matthias, Laakso, Mikael, & Sesink, Laurents. (2019). [Open Scholarship and the need for collective action](https://doi.org/10.5281/zenodo.3454688). Zenodo. 
 
 
 
