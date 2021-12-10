@@ -19,7 +19,9 @@ Here the (initial) focus will be mainly on the use/potential of open metadata fo
 - Monitoring and Evaluation of research funding programs 
 
 
-### Links to some resources
+### Links to some resources 
+
+#### In the wiki of the repository 
 
 1. [An overview of Open Scientometric Datasets](https://github.com/almugabo/open_metadata/wiki/Open-Scientometric-datasets) 
 
