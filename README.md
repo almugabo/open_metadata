@@ -33,7 +33,7 @@ Here the (initial) focus will be mainly on the use/potential of open metadata fo
 
 2. [A bibliography - partially annotated with reading notes - on Data Quality in Scientometric Databases](https://github.com/almugabo/open_metadata/wiki/Data-Quality-in-Scientometric--Databases---Datasets)
 
-
+3. [Lists of journals](https://github.com/almugabo/open_metadata/wiki/Journals)
 
 
 
